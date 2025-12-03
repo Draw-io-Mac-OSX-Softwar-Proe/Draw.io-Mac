@@ -9,7 +9,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDohREXp-vALUmkO3YQLeav7rnFZ1oIrhiY4j9EQQRwiOBOh9yxe7CsEUh80cHJe2NYw&usqp=CAU" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/draw.io">
+<a href="https://mac-apps-install.github.io/.github/draw.io">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
